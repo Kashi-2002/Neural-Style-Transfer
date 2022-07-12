@@ -5,7 +5,7 @@ between context and style.Deep neural networks have already surpassed human leve
 were lagging far behind in tasks like generating artistic artefacts having high perceptual quality until recent times. Creating better quality art using machine learning
 techniques is imperative for reaching human-like capabilities, as well as opens up a new spectrum of possibilities.
 
-#Building The Model
+## Building The Model
 * Used Pretrained Model from Tensorflow for training removed some layers and trained with customised weights to generate an image that represented the context image and
 does not loose all its characteristics.
 * Used Foreground-Background Extraction for retaining the background and removing the image of person detected with high probability.
@@ -14,7 +14,7 @@ does not loose all its characteristics.
 Points to note:
 * There are lot of changes in the image generated on changing the hyperparamter values.
 
-##Generated images:
+## Generated images:
 
 ![image](https://user-images.githubusercontent.com/83583106/178488282-fc6a25e4-e108-4418-aa7d-ea4150be444d.png)
 
