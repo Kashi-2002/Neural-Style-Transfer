@@ -15,11 +15,17 @@ Points to note:
 * There are lot of changes in the image generated on changing the hyperparamter values.
 
 ##Generated images:
+
 ![image](https://user-images.githubusercontent.com/83583106/178488282-fc6a25e4-e108-4418-aa7d-ea4150be444d.png)
+
+
 Image generated without tuning.
+
+
 ![image](https://user-images.githubusercontent.com/83583106/178488616-4b1a33cb-a645-494b-9a4e-5a5cec6f2b29.png)
 
 The image genrated on tuning the hyperparameters.
+
 ![image](https://user-images.githubusercontent.com/83583106/178488371-301ae959-c0e3-4b22-aba5-bce2a74a4f13.png)
 
 
